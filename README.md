@@ -12,6 +12,9 @@ Link to skin: http://skins.b2evolution.net/bootstrap-photoblog-skin
 
 ### Update Log:
 
+#### v6.7.8-stable
+- sync with latest bootstrap_photoblog_skin built-in version in b2evolution 6.7.8-sable
+
 #### v6.7.7
 - sync with latest bootstrap_photoblog_skin built-in version in b2evolution 6.7.7-sable
 
