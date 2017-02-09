@@ -1,22 +1,21 @@
-## Bootstrap Photoblog skin for b2evolution CMS.
+## Bootstrap Photoblog Skin
 
-Link to skin: http://skins.b2evolution.net/bootstrap-photoblog-skin
+### Front Page
 
-<img src="skinshot.png"/><br/><br/>
-### Front page
-<img src="skinshot_front.jpg"/><br/><br/>
-### Category page
-<img src="skinshot_catdir.jpg"/><br/><br/>
-### Single page
-<img src="skinshot_single.jpg"/><br/><br/>
+![disp=front](skinshot_front.jpg)
 
-### Update Log:
+### Post Categories Page
 
-#### v6.7.8-stable
-- sync with latest bootstrap_photoblog_skin built-in version in b2evolution 6.7.8-sable
+![disp=catdir](skinshot_catdir.jpg)
 
-#### v6.7.7
-- sync with latest bootstrap_photoblog_skin built-in version in b2evolution 6.7.7-sable
+### Single Page
 
-#### v6.7.6-stable
-- sync with latest bootstrap_photoblog_skin built-in version in b2evolution 6.7.6-stable
+![disp=single](skinshot_single.jpg)
+
+### Update log
+
+#### v6.8.6
+- sync with latest version from b2evolution:master
+
+#### v6.8.0-alpha
+- LESS modules includes moved from skin style to generic b2evo CSS file
